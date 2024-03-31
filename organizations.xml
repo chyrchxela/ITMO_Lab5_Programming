@@ -1,0 +1,38 @@
+<organizations>
+    <organization id="-1980999366">
+        <coordinates>
+            <x>null</x>
+            <y>null</y>
+        </coordinates>
+        <creationDate>1648675200000</creationDate>
+        <annualTurnover>1000000</annualTurnover>
+        <type>COMMERCIAL</type>
+        <officialAddress>
+            <street>null</street>
+        </officialAddress>
+    </organization>
+    <organization id="-1980999365">
+        <coordinates>
+            <x>null</x>
+            <y>null</y>
+        </coordinates>
+        <creationDate>1648675200000</creationDate>
+        <annualTurnover>2000000</annualTurnover>
+        <type>GOVERNMENT</type>
+        <officialAddress>
+            <street>null</street>
+        </officialAddress>
+    </organization>
+    <organization id="-1980999339">
+        <coordinates>
+            <x>null</x>
+            <y>null</y>
+        </coordinates>
+        <creationDate>1711710951762</creationDate>
+        <annualTurnover>3000000</annualTurnover>
+        <type>TRUST</type>
+        <officialAddress>
+            <street>null</street>
+        </officialAddress>
+    </organization>
+</organizations>
